@@ -2,6 +2,12 @@
 
 The goal of this library is to provide a simple way of communicating with a `NodeJS` backend. As an alternative to creating REST API's we use ES7 decorators, Websockets and RxJS streams to simply expose backend methods to a client.
 
+## Install
+
+```bash
+npm install rx-expose --save
+```
+
 ## Example
 
 ### server.js - *npm run example-server*
